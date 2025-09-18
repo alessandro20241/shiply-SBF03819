@@ -1,0 +1,43 @@
+{
+  "SBF03819": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Marco Pellegrini, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Rendani Maarten Kruger, Pieter van Den Zandestraat 20, 2513 TM Den Haag, Niederlande",
+    "price": "3.800 €",
+    "description": "Hersteller: BMW<br>Typ: F 700 GS <br>Fahrgestelnummer: WB10B1100GZU99754 <br>Erstzulassung: 10/2016 <br>KM laut Vorbesitzer: 17.619 km <br>Leistung: 55 kW <br>Farbe: Grau <br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Niederländische Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Grau<br>Pieter van Den Zandestraat 20<br>2513 TM Den Haag<br>Niederlande<br>Telefon: +31 626679838",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "18-09-2025",
+    "deliveryDate": "26-09-2025",
+    "pickup": {
+      "street": "Lessingstraße 11",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Pieter van Den Zandestraat 20",
+      "postal_code": "2513 TM",
+      "city": "Den Haag",
+      "country": "Niederlande"
+    }
+  }
+}
